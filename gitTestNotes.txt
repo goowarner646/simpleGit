@@ -1,0 +1,44 @@
+1:Check current directory
+pwd
+
+2:To check all files in current directory
+ls -ltr
+
+3:Go to some folder
+cd directorynName (eg. $ cd Desktop/)
+
+4:How to create a folder?
+mkdir folderName
+
+5:How to create a file in the selected folder?
+touch fileName
+
+6:To go up one level
+cd ..
+
+OR
+
+To go up one level and enter into a new folder
+cd ../newFolderName
+
+
+4 Commands
+1:git init
+2:git status
+3:git add .
+4:git commit -m "first commit"
+5:git log
+
+Steps:
+1:make some file changes and save it
+2:git status --will shows red
+3:git add . --will shows green
+4:git commit -m "nth" --log the commit version
+5:git log --allows you to view previous committed versions
+Notes: press "Q" to get out from ":"
+6:git remote add origin yourRepositoryAddress -- yourRepositoryAddress from github ONLY need to do it once
+7:git push -u origin master --file will get save in gitHub
+
+
+
+
