@@ -39,6 +39,10 @@ Notes: press "Q" to get out from ":"
 6:git remote add origin yourRepositoryAddress -- yourRepositoryAddress from github ONLY need to do it once
 7:git push -u origin master --file will get save in gitHub
 
-
+vi filename
+i --to insert
+Esc --to stop 
+:wq! --quit and save
+:q! --quit
 
 
